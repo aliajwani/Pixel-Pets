@@ -1,0 +1,1 @@
+[{"type":"cat","name":"test1","health":75,"happiness":185,"fullness":36,"sleep":49,"cooldown":0,"state":"default","score":60},{"type":"fox","name":"test2","health":60,"happiness":96,"fullness":29,"sleep":1,"cooldown":0,"state":"asleep","score":40},{"type":"owl","name":"test3","health":50,"happiness":59,"fullness":66,"sleep":96,"cooldown":0,"state":"default","score":30}]
